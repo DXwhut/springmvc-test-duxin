@@ -1,0 +1,14 @@
+settings
+.project
+.idea
+*.iml
+**/.settings
+**/.classpath
+**/.eclipse
+**/.project
+**/target
+MANIFEST.MF
+.DS_Store
+**/.DS_Store
+
+rebel.xml
